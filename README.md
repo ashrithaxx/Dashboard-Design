@@ -21,7 +21,7 @@
 -	Technology category has the highest sales.
 -	Consumer segment contributes the largest share of sales.
 
-## Business Recommendations:
+## Business Recommendations
 -	Focus marketing on high-performing regions like West.
 -	Invest more in Technology products.
 -	Improve performance in low-profit regions.
