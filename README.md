@@ -24,5 +24,5 @@
 ## Business Recommendations
 -	Focus marketing on high-performing regions like West.
 -	Invest more in Technology products.
--	Improve performance in low-profit regions.
+-	Improve performance in low profit regions.
 -	Target the Consumer segment for growth.
